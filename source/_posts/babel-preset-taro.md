@@ -16,7 +16,7 @@ tags:
 |            |   vue/vue3    | @babel/preset-typescript ,include: /\.vue$/ |                |
 |     h5     |     默认      |       babel-plugin-transform-taroapi        |                |
 |  default   |     默认      |              @babel/preset-env              |                |
-|            |     test      |      @babel/plugin-proposal-decorators      |                |
+|            |     test2     |      @babel/plugin-proposal-decorators      |                |
 |            |               |   @babel/plugin-proposal-class-properties   |                |
 |            |               |       @babel/plugin-transform-runtime       |                |
 |            |               |      babel-plugin-dynamic-import-node       |                |
