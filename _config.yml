@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 阿瓦隆
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: '程序员，前端码农，react，fp'
+author: George Lin
+language: cn
 timezone: ''
 
 # URL
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
