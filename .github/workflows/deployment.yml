@@ -25,9 +25,9 @@ jobs:
       id: cache
       with:
         path: node_modules
-        key: ${{ runner.OS }}-npm-cache
+        key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
         restore-keys: |
-          ${{ runner.OS }}-npm-cache
+          ${{ runner.os }}-node-modules-
 
     - name: Install Dependencies
       if: steps.cache.outputs.cache-hit != 'true'
