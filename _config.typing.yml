@@ -38,20 +38,26 @@ icons: false
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
 links:
   book: /archives/
-  globe: https://github.com/Silver47Gin
-  twitter: https://github.com/Silver47Gin
-  github-alt: https://github.com/Silver47Gin
-  youtube-play: https://github.com/Silver47Gin
-  stack-overflow: https://github.com/Silver47Gin
-  google-plus: https://github.com/Silver47Gin
-  rss: /atom.xml
+  github: https://github.com/Silver47Gin
+  # twitter: https://github.com/Silver47Gin
+  # github-alt: https://github.com/Silver47Gin
+  # youtube-play: https://github.com/Silver47Gin
+  # stack-overflow: https://github.com/Silver47Gin
+  # google-plus: https://github.com/Silver47Gin
+  # rss: /atom.xml
 
 # nav position (top, left. top is default)
 nav: left
 
 # Info
-archive_footer_content: 阿巴阿巴
-post_footer_content: 阿巴
+archive_footer_content: 🚀🚀🚀🚀
+post_footer_content: >
+    >                     _    _
+    > __________   ___   | \__/ |
+    >(_____   _ `-'   `-'  @ _@ |
+    >      | | `.          \_"_/|
+    >      | |\ \`-.___.-. |  | \
+    >      |_) \_)       |_)   \_)
 
 # Gitment
 gitment:
